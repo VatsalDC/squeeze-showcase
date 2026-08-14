@@ -4,7 +4,7 @@
 
 Squeeze is a privacy-first image compressor that gives you precise control over **file size, quality, and output format** — while processing everything directly on your device.
 
-**[Live Demo](https://squeezeit.netlify.app)** · **Source Code — Private**
+**[Visit Squeeze](https://squeezeit.netlify.app)** · **Source Code — Private**
 
 ---
 
@@ -248,14 +248,6 @@ Try Squeeze directly in your browser:
 ### [squeezeit.netlify.app](https://squeezeit.netlify.app)
 
 No installation or account required.
-
----
-
-## Source Code
-
-The production source code for Squeeze is kept in a **private repository**.
-
-This public repository exists as a project showcase containing the documentation, screenshots, architecture overview, and design decisions.
 
 ---
 
